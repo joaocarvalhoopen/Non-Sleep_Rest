@@ -69,7 +69,7 @@ When I tested this some months ago, and in that day I was particularly tired bec
   [https://youtu.be/Ze2pc6NwsHQ?t=3343](https://youtu.be/Ze2pc6NwsHQ?t=3343)
 
 
-### Alternatively I made a small program to generate the Binaural Beat 40 Hz WAV.
+### Alternatively I made a small program to generate the 40 Hz Binaural Beat WAV file.
 
 To compile it first you have to download and go to the sub-directory ```binaural_beats_40Hz```. <br>
 
@@ -94,7 +94,7 @@ cargo doc --open
 ```
 
 
-## Reference
+## References
 
 * **Huberman Lab** <br>
   [https://www.youtube.com/c/AndrewHubermanLab](https://www.youtube.com/c/AndrewHubermanLab)
@@ -102,7 +102,10 @@ cargo doc --open
 
 ## Disclaimer
 
-I'm not a neuroscientist, I'm not even a scientist. I'm just a simple person that experimented those two techniques and to myself they appeared to work. But regard, that the placebo effect can always creep on any person. But I convinced myself sufficiently to experiment with those two techniques, by following what was said in Huberman Lab, by Prof. Andrew Huberman. I trust his knowledgeable advice. If you do this stuff to it at your own risc. I not giving advice to anyone about this, I am just document it for my personal future memory.
+I'm not a neuroscientist, I'm not even a scientist. I'm just a simple person that experimented those two techniques and to myself they appeared to work. But regard, that the placebo effect can always creep on any person. But I convinced myself sufficiently to experiment with those two techniques, by following what was said in Huberman Lab, by Prof. Andrew Huberman. I trust his knowledgeable advice. If you do this stuff do it at your own risk. I'm not giving advice to anyone about this, I am just documenting it for my personal future memory.
+
+## License
+The code license for the small program that generates the 40Hz Binaural Beats is MIT Open Source License. 
 
 
 ## Have fun
